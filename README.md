@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruben-Saraiva
-- 👀 I’m interested in programming in Python and SQL
-- 🌱 I’m currently learning the logic of Python and SQL
+- 👀 I’m interested in programming in Python and R
+- 🌱 I’m currently learning the logic of Python and R
 - 📫 How to reach me: @ruben_aquila
 
 <!---
